@@ -1,4 +1,4 @@
-package com.mi_espacio.mi_esoacio_back;
+package com.mi_espacio.mi_espacio_back;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
